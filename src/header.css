@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(19, 99, 75);;
+    height: 36px;
+    width: 100%;
+
+}
+
+
+.headerContent{
+    display: flex;
+    justify-content: space-around;
+    size: 32px;
+    
+
+}
+
+.headerContent > img{
+    margin-top: -29px;
+}

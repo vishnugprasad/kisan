@@ -1,0 +1,18 @@
+.titleCard{
+    background-color: rgb(92, 101, 104);
+   
+}
+
+.titleInfo{
+   
+    margin-left: 20%;
+    margin-right: 20%;
+  
+    background-color: rgb(160, 85, 58);
+}
+
+.titleCardInfo{
+    padding-top: 4%;
+    padding-right: 20%;
+    padding-bottom: 4%;
+}

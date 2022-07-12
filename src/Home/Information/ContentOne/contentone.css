@@ -1,0 +1,27 @@
+
+.contentOne{
+    
+   width: 78%;
+}
+
+.heading{
+    text-align: left;
+}
+
+.subHeading{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
+
+.infoOne{
+    text-align: left;
+}
+
+.infoTwo{
+    text-align: left;
+}
+
+.infoFloat{
+    background-color: bisque ;
+}
